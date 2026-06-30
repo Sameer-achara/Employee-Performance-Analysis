@@ -26,19 +26,20 @@ def load_data():
 
     df = pd.read_csv(DATA_PATH)
 
-      if "Attendance_Percentage" in df.columns:
-            df["Attendance_Percentage"] = (
-                df["Attendance_Percentage"]
-                .astype(str)
-                .str.replace("%", "", regex=False)
-                .str.strip()
-            )
-    
-            df["Attendance_Percentage"] = pd.to_numeric(
-                df["Attendance_Percentage"],
-                errors="coerce"
-            )
-    
+    # the attendance column has a % sign in it, need to clean that
+    if "Attendance_Percentage" in df.columns:
+        df["Attendance_Percentage"] = (
+            df["Attendance_Percentage"]
+            .astype(str)
+            .str.replace("%", "", regex=False)
+            .str.strip()
+        )
+
+        df["Attendance_Percentage"] = pd.to_numeric(
+            df["Attendance_Percentage"],
+            errors="coerce"
+        )
+
 
 raw_df = load_data()
 
