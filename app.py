@@ -19,14 +19,12 @@ MAIN_COLOR = "#4C72B0"
 
 @st.cache_data
 def load_data():
-    
 
-    BASE_DIR= os.path.dirname(os.path.abspath(__file__))
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
     DATA_PATH = os.path.join(BASE_DIR, "employee_dataset_powerbi.csv")
 
     df = pd.read_csv(DATA_PATH)
 
-    # the attendance column has a % sign in it, need to clean that
     if "Attendance_Percentage" in df.columns:
         df["Attendance_Percentage"] = (
             df["Attendance_Percentage"]
@@ -39,6 +37,8 @@ def load_data():
             df["Attendance_Percentage"],
             errors="coerce"
         )
+
+    return df      
 
 
 raw_df = load_data()
