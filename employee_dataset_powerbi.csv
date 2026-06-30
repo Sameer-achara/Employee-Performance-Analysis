@@ -1,0 +1,792 @@
+age,years_experience,education_level,department,performance_score,performance_category,City,Attendance_Percentage,Salary
+58,23,High School,Finance,10,Excellent,Jaipur,70%,24584
+48,39,Bachelor,HR,6,Good,Kota,89%,51323
+34,15,High School,HR,5,Average,Delhi,85%,27306
+27,29,PhD,HR,4,Average,Indore,86%,106072
+40,36,PhD,Finance,2,Poor,Kota,83%,100752
+58,13,PhD,Tech,4,Average,Delhi,82%,95579
+38,32,PhD,Tech,10,Excellent,Jaipur,92%,147067
+42,7,PhD,Finance,10,Excellent,Indore,85%,107417
+30,22,Master,HR,3,Poor,Bhopal,72%,80082
+30,28,Master,HR,10,Excellent,Bhopal,95%,66224
+43,2,High School,Tech,1,Poor,Udaipur,76%,27935
+55,6,PhD,HR,8,Very Good,Udaipur,75%,105400
+59,28,High School,Sales,5,Average,Jaipur,81%,20135
+43,28,PhD,Tech,4,Average,Mumbai,77%,134654
+22,20,PhD,HR,8,Very Good,Mumbai,80%,106850
+41,30,Master,Tech,7,Good,Udaipur,92%,84422
+21,11,Master,Sales,2,Poor,Bhopal,83%,83777
+43,28,Bachelor,Tech,1,Poor,Udaipur,93%,42569
+49,25,Master,Tech,4,Average,Pune,85%,75667
+57,39,Bachelor,Tech,8,Very Good,Mumbai,73%,68691
+21,33,Bachelor,Tech,2,Poor,Jaipur,82%,55434
+40,1,Bachelor,Sales,3,Poor,Indore,72%,35924
+52,27,Bachelor,Finance,1,Poor,Delhi,81%,39159
+31,13,Bachelor,Tech,1,Poor,Ahmedabad,86%,53326
+41,3,High School,Tech,3,Poor,Indore,82%,22584
+44,39,Master,HR,5,Average,Delhi,73%,94085
+46,6,Bachelor,Tech,3,Poor,Jaipur,76%,68845
+47,8,PhD,HR,1,Poor,Udaipur,78%,115979
+35,27,Master,Finance,1,Poor,Lucknow,72%,76071
+34,9,Master,Sales,8,Very Good,Delhi,92%,84100
+22,37,Bachelor,Sales,10,Excellent,Jaipur,73%,56915
+56,33,High School,Finance,2,Poor,Delhi,81%,35271
+26,24,Bachelor,Sales,3,Poor,Mumbai,75%,48719
+40,15,High School,Finance,2,Poor,Mumbai,76%,38209
+28,32,PhD,Finance,3,Poor,Jaipur,72%,118630
+58,32,Master,Finance,7,Good,Kota,97%,91817
+37,24,PhD,Sales,1,Poor,Indore,72%,92537
+23,12,High School,HR,10,Excellent,Ahmedabad,83%,22419
+44,39,High School,Finance,8,Very Good,Lucknow,96%,21807
+33,2,PhD,Tech,10,Excellent,Kota,90%,144819
+28,3,High School,Sales,10,Excellent,Lucknow,90%,23537
+45,37,PhD,Finance,10,Excellent,Jaipur,99%,96607
+21,17,Master,Finance,2,Poor,Kota,84%,91039
+39,2,PhD,Tech,3,Poor,Udaipur,99%,115608
+47,2,Master,HR,9,Very Good,Bhopal,93%,72906
+26,28,PhD,HR,7,Good,Lucknow,83%,124298
+27,23,High School,HR,4,Average,Pune,84%,37346
+54,37,PhD,Finance,10,Excellent,Ahmedabad,92%,137012
+33,32,High School,Finance,5,Average,Bhopal,71%,20343
+36,33,PhD,Finance,2,Poor,Ahmedabad,83%,126006
+55,1,PhD,Sales,8,Very Good,Udaipur,71%,137517
+59,19,Bachelor,Tech,4,Average,Jaipur,73%,48347
+23,2,High School,Finance,9,Very Good,Indore,99%,31369
+21,26,Bachelor,Tech,5,Average,Bhopal,79%,45004
+25,32,High School,Tech,9,Very Good,Indore,86%,24235
+23,6,Bachelor,HR,4,Average,Bhopal,82%,45738
+48,32,Master,Sales,10,Excellent,Ahmedabad,82%,97952
+37,4,PhD,Finance,5,Average,Lucknow,96%,132010
+45,11,High School,HR,9,Very Good,Bhopal,97%,29915
+53,17,High School,HR,8,Very Good,Indore,93%,28511
+29,38,PhD,Finance,3,Poor,Udaipur,80%,94126
+55,24,High School,Tech,1,Poor,Bhopal,81%,34643
+33,5,High School,HR,3,Poor,Jaipur,81%,20597
+50,34,Bachelor,Tech,4,Average,Mumbai,72%,40895
+34,6,High School,Sales,2,Poor,Delhi,80%,28994
+27,22,Master,Tech,1,Poor,Lucknow,89%,92858
+33,11,Master,Sales,7,Good,Kota,75%,65061
+42,16,PhD,Tech,8,Very Good,Mumbai,73%,107159
+59,33,High School,HR,7,Good,Udaipur,70%,33467
+40,9,PhD,HR,5,Average,Udaipur,84%,133629
+35,6,Master,Sales,1,Poor,Bhopal,82%,90351
+37,16,High School,Finance,7,Good,Indore,86%,31095
+43,29,High School,Sales,7,Good,Delhi,80%,24024
+45,3,PhD,Sales,9,Very Good,Lucknow,71%,98278
+44,20,Master,Tech,3,Poor,Indore,96%,90447
+48,36,High School,Tech,9,Very Good,Ahmedabad,76%,24517
+34,19,PhD,Sales,1,Poor,Udaipur,95%,141322
+20,26,Master,HR,1,Poor,Jaipur,79%,95199
+44,3,PhD,Tech,4,Average,Pune,80%,128982
+26,19,Bachelor,Finance,9,Very Good,Ahmedabad,92%,55274
+28,20,High School,Tech,6,Good,Delhi,79%,37472
+43,32,Bachelor,Tech,3,Poor,Udaipur,74%,56314
+20,7,Master,Finance,1,Poor,Jaipur,80%,92638
+27,33,Bachelor,Sales,4,Average,Udaipur,89%,53929
+43,39,Bachelor,Finance,9,Very Good,Pune,85%,46091
+30,18,Master,Sales,3,Poor,Indore,81%,73005
+36,1,PhD,Sales,9,Very Good,Bhopal,77%,140976
+27,11,Bachelor,Sales,7,Good,Bhopal,87%,49694
+54,28,PhD,Finance,4,Average,Jaipur,94%,141346
+54,25,Bachelor,Sales,3,Poor,Kota,97%,64802
+52,23,PhD,HR,10,Excellent,Lucknow,71%,110617
+24,31,Master,Finance,5,Average,Pune,89%,64715
+58,30,Bachelor,HR,5,Average,Bhopal,85%,41131
+47,35,Master,Sales,3,Poor,Lucknow,96%,90880
+26,7,Bachelor,Tech,9,Very Good,Mumbai,74%,51257
+28,16,Master,Sales,4,Average,Mumbai,76%,89196
+27,26,Master,HR,5,Average,Bhopal,80%,85894
+31,2,Bachelor,HR,4,Average,Lucknow,77%,50377
+53,1,Bachelor,Finance,5,Average,Indore,92%,60511
+52,12,Bachelor,Tech,7,Good,Lucknow,85%,55281
+42,5,High School,Finance,9,Very Good,Jaipur,87%,30562
+43,37,PhD,HR,7,Good,Jaipur,77%,125154
+56,32,High School,Sales,5,Average,Mumbai,97%,37482
+54,9,High School,Tech,10,Excellent,Lucknow,79%,29210
+59,35,Master,Sales,10,Excellent,Pune,99%,96063
+41,19,Bachelor,Sales,7,Good,Jaipur,94%,36275
+46,16,PhD,Tech,10,Excellent,Kota,75%,137543
+54,3,Master,Finance,5,Average,Udaipur,76%,94583
+20,20,High School,Sales,3,Poor,Kota,84%,23523
+54,24,Bachelor,HR,7,Good,Indore,85%,63787
+56,33,Master,Sales,2,Poor,Indore,95%,68349
+33,24,Bachelor,Tech,9,Very Good,Jaipur,80%,44096
+22,11,Master,Tech,10,Excellent,Delhi,85%,91487
+20,8,Bachelor,Tech,10,Excellent,Ahmedabad,90%,63092
+24,36,High School,Finance,1,Poor,Delhi,84%,24546
+45,38,PhD,Sales,6,Good,Bhopal,84%,133983
+33,20,High School,Finance,7,Good,Udaipur,95%,35108
+58,35,PhD,Finance,8,Very Good,Delhi,99%,137363
+46,25,Bachelor,Tech,10,Excellent,Delhi,78%,42955
+28,35,Master,Tech,9,Very Good,Indore,83%,77967
+34,25,High School,Finance,2,Poor,Jaipur,93%,24590
+34,29,PhD,Sales,10,Excellent,Bhopal,99%,142548
+45,18,High School,HR,2,Poor,Indore,79%,28122
+32,18,PhD,Finance,5,Average,Delhi,72%,95579
+51,2,High School,Sales,5,Average,Bhopal,90%,23248
+58,35,PhD,Tech,6,Good,Indore,82%,130126
+51,16,PhD,Tech,3,Poor,Jaipur,97%,144958
+23,36,Bachelor,Sales,8,Very Good,Udaipur,84%,53451
+49,33,PhD,HR,1,Poor,Kota,73%,112142
+56,4,Bachelor,Tech,6,Good,Lucknow,99%,43971
+58,19,Bachelor,Tech,7,Good,Jaipur,97%,55701
+48,26,PhD,HR,5,Average,Bhopal,89%,134996
+34,3,High School,HR,5,Average,Udaipur,97%,34320
+27,19,PhD,Tech,2,Poor,Indore,80%,109376
+40,20,High School,HR,3,Poor,Udaipur,82%,22588
+58,32,High School,Sales,7,Good,Jaipur,88%,28092
+38,7,PhD,Sales,6,Good,Mumbai,88%,149973
+42,33,PhD,Tech,2,Poor,Indore,89%,147283
+30,39,PhD,Finance,6,Good,Delhi,86%,127152
+30,18,PhD,Tech,2,Poor,Mumbai,74%,139136
+43,1,Master,Tech,2,Poor,Udaipur,77%,63538
+55,11,Bachelor,Finance,2,Poor,Pune,94%,69369
+59,28,High School,Finance,3,Poor,Delhi,71%,32888
+43,25,PhD,Finance,2,Poor,Jaipur,75%,114310
+22,23,PhD,Sales,4,Average,Bhopal,92%,117873
+41,31,PhD,HR,9,Very Good,Indore,83%,140612
+21,30,Master,Sales,6,Good,Bhopal,95%,62286
+43,35,PhD,HR,1,Poor,Kota,86%,107165
+49,7,PhD,Sales,8,Very Good,Mumbai,84%,146573
+57,16,PhD,HR,7,Good,Kota,91%,145337
+21,26,Bachelor,Sales,10,Excellent,Indore,89%,49640
+40,2,Master,Finance,3,Poor,Udaipur,78%,79264
+52,1,PhD,Tech,1,Poor,Mumbai,89%,120259
+31,12,High School,Sales,5,Average,Bhopal,77%,37742
+41,5,High School,HR,4,Average,Udaipur,94%,27055
+44,37,High School,Finance,10,Excellent,Bhopal,79%,34975
+46,32,Master,Sales,8,Very Good,Delhi,75%,64671
+47,9,Master,Sales,1,Poor,Mumbai,99%,73758
+35,35,High School,Finance,10,Excellent,Ahmedabad,86%,27139
+34,19,PhD,Sales,1,Poor,Indore,77%,147165
+22,16,Master,Tech,4,Average,Indore,99%,71040
+56,3,High School,Sales,8,Very Good,Jaipur,92%,36785
+26,20,High School,Tech,5,Average,Mumbai,83%,29849
+40,24,PhD,Tech,2,Poor,Lucknow,95%,98613
+28,33,Bachelor,Finance,6,Good,Jaipur,93%,55550
+58,24,Master,Sales,5,Average,Udaipur,72%,72091
+37,11,PhD,Finance,2,Poor,Lucknow,88%,108564
+23,8,High School,Sales,3,Poor,Lucknow,82%,22651
+44,36,High School,Sales,9,Very Good,Kota,87%,33228
+33,38,PhD,HR,7,Good,Indore,72%,113363
+28,20,Master,Sales,7,Good,Jaipur,81%,75426
+45,35,Bachelor,Finance,6,Good,Mumbai,84%,62394
+21,25,Bachelor,Tech,8,Very Good,Bhopal,92%,64418
+39,35,High School,Sales,4,Average,Udaipur,90%,25203
+47,25,Master,HR,8,Very Good,Bhopal,99%,60510
+26,29,Bachelor,Finance,4,Average,Bhopal,74%,54002
+27,18,Master,Sales,8,Very Good,Bhopal,75%,93014
+54,18,Master,Finance,9,Very Good,Mumbai,81%,60505
+33,2,High School,HR,3,Poor,Udaipur,92%,27272
+36,35,Bachelor,HR,3,Poor,Bhopal,88%,63708
+55,16,PhD,Finance,2,Poor,Delhi,74%,118562
+59,36,High School,Sales,10,Excellent,Bhopal,74%,25604
+23,33,Bachelor,Tech,3,Poor,Udaipur,95%,54410
+21,4,Bachelor,HR,3,Poor,Pune,79%,55461
+25,33,Bachelor,Sales,5,Average,Ahmedabad,83%,54622
+23,14,Bachelor,Sales,5,Average,Udaipur,74%,38662
+48,21,Bachelor,Tech,2,Poor,Delhi,75%,50471
+37,20,Master,HR,10,Excellent,Kota,84%,88974
+45,8,High School,HR,6,Good,Bhopal,78%,27393
+53,7,Master,Sales,5,Average,Pune,89%,60007
+29,3,PhD,Sales,6,Good,Pune,77%,146044
+55,17,Bachelor,Tech,1,Poor,Udaipur,89%,37611
+33,33,High School,Tech,5,Average,Kota,96%,31936
+50,12,Bachelor,HR,9,Very Good,Indore,76%,54216
+34,22,High School,Finance,10,Excellent,Jaipur,79%,24666
+27,22,Master,HR,2,Poor,Bhopal,76%,87741
+33,30,High School,Sales,1,Poor,Delhi,88%,38820
+42,38,PhD,HR,10,Excellent,Pune,89%,94210
+59,38,PhD,Finance,9,Very Good,Bhopal,71%,102674
+40,8,High School,Tech,10,Excellent,Pune,94%,35064
+35,27,High School,Finance,9,Very Good,Jaipur,97%,25516
+37,27,High School,Finance,9,Very Good,Pune,79%,20725
+43,34,High School,Finance,6,Good,Kota,99%,38091
+45,21,PhD,Tech,8,Very Good,Ahmedabad,99%,99683
+44,30,Bachelor,Finance,1,Poor,Pune,94%,43056
+48,33,High School,Finance,10,Excellent,Delhi,76%,24759
+34,28,High School,Finance,4,Average,Ahmedabad,89%,25835
+20,33,PhD,Sales,1,Poor,Udaipur,84%,141447
+44,5,PhD,Finance,8,Very Good,Delhi,70%,126279
+26,19,Master,Tech,1,Poor,Udaipur,75%,95904
+28,4,High School,Finance,3,Poor,Bhopal,75%,37504
+43,35,Master,Finance,4,Average,Bhopal,94%,93960
+20,17,PhD,Tech,8,Very Good,Mumbai,80%,90421
+27,28,PhD,Finance,6,Good,Bhopal,89%,93880
+43,30,Bachelor,Tech,10,Excellent,Mumbai,91%,40897
+30,29,High School,Finance,7,Good,Lucknow,95%,27936
+36,6,Master,Tech,8,Very Good,Lucknow,75%,90466
+27,35,PhD,Finance,2,Poor,Indore,80%,121400
+54,37,PhD,Finance,10,Excellent,Jaipur,71%,133824
+54,24,Master,Sales,8,Very Good,Kota,73%,94515
+52,29,Bachelor,Sales,3,Poor,Ahmedabad,77%,68541
+24,31,PhD,Finance,7,Good,Lucknow,71%,113506
+58,35,High School,Finance,3,Poor,Udaipur,81%,25959
+47,33,PhD,HR,7,Good,Indore,76%,135471
+26,21,High School,Tech,2,Poor,Pune,72%,33817
+28,32,Master,HR,10,Excellent,Bhopal,75%,91900
+27,23,High School,Sales,6,Good,Mumbai,99%,23079
+31,33,Master,Sales,3,Poor,Ahmedabad,84%,61623
+53,3,High School,Sales,3,Poor,Jaipur,83%,39835
+52,18,Master,Sales,9,Very Good,Ahmedabad,75%,76892
+42,25,High School,Finance,7,Good,Ahmedabad,73%,26963
+43,31,Bachelor,Sales,5,Average,Lucknow,87%,60146
+56,3,High School,Finance,10,Excellent,Udaipur,86%,39676
+54,24,High School,Finance,7,Good,Ahmedabad,71%,31243
+59,32,Bachelor,Sales,9,Very Good,Delhi,89%,68028
+41,22,PhD,Sales,1,Poor,Jaipur,91%,127771
+46,23,PhD,Tech,7,Good,Udaipur,77%,91241
+54,2,High School,HR,6,Good,Lucknow,90%,37558
+20,27,Bachelor,Sales,10,Excellent,Udaipur,73%,46911
+54,2,High School,Tech,9,Very Good,Indore,83%,25679
+56,26,Master,Tech,1,Poor,Udaipur,98%,73111
+33,17,Master,HR,4,Average,Udaipur,74%,79152
+22,33,High School,Finance,9,Very Good,Pune,77%,25832
+20,9,PhD,Sales,4,Average,Lucknow,91%,122737
+24,39,PhD,HR,10,Excellent,Udaipur,79%,91238
+45,29,High School,Sales,3,Poor,Pune,75%,33186
+33,26,High School,Tech,9,Very Good,Mumbai,84%,24562
+58,35,Master,Tech,2,Poor,Indore,94%,80551
+46,25,PhD,Finance,4,Average,Jaipur,74%,129971
+28,24,High School,Tech,6,Good,Indore,88%,36287
+34,13,Master,Tech,2,Poor,Indore,81%,95202
+34,7,PhD,HR,8,Very Good,Bhopal,93%,120140
+45,36,Bachelor,Sales,8,Very Good,Kota,82%,53532
+32,20,Master,Sales,1,Poor,Mumbai,70%,69297
+51,1,PhD,HR,3,Poor,Bhopal,89%,142593
+58,8,PhD,Finance,10,Excellent,Indore,85%,97346
+51,16,Master,Sales,9,Very Good,Udaipur,79%,74793
+23,14,Bachelor,Tech,5,Average,Delhi,83%,65919
+49,12,Master,Sales,6,Good,Kota,83%,81319
+56,23,PhD,Tech,4,Average,Delhi,93%,147679
+42,15,High School,Finance,10,Excellent,Kota,89%,22479
+58,28,High School,HR,2,Poor,Bhopal,75%,26707
+34,34,Master,Sales,8,Very Good,Ahmedabad,99%,84320
+48,2,PhD,HR,6,Good,Udaipur,88%,133998
+55,32,High School,Sales,5,Average,Jaipur,74%,20753
+32,23,PhD,Tech,9,Very Good,Indore,76%,103316
+51,22,Master,HR,1,Poor,Jaipur,77%,79480
+26,25,High School,Sales,5,Average,Ahmedabad,79%,36382
+41,22,PhD,Tech,6,Good,Indore,93%,133280
+47,22,High School,HR,5,Average,Kota,91%,33389
+21,6,Master,HR,6,Good,Delhi,95%,62328
+25,15,PhD,Sales,6,Good,Lucknow,84%,140118
+47,37,High School,Sales,7,Good,Ahmedabad,86%,39580
+47,33,Master,Sales,4,Average,Udaipur,74%,91319
+39,8,High School,Tech,8,Very Good,Pune,91%,34878
+49,5,High School,Sales,7,Good,Lucknow,88%,27267
+30,39,Bachelor,HR,9,Very Good,Kota,92%,48539
+47,4,Bachelor,HR,7,Good,Lucknow,95%,60003
+44,6,Master,Sales,3,Poor,Ahmedabad,76%,67892
+58,32,Bachelor,Sales,3,Poor,Ahmedabad,75%,59679
+52,30,Master,Finance,8,Very Good,Udaipur,86%,82664
+20,35,Bachelor,HR,5,Average,Pune,75%,41800
+46,16,High School,Tech,4,Average,Lucknow,77%,26233
+32,13,Master,Finance,8,Very Good,Bhopal,85%,72953
+22,30,Master,Sales,6,Good,Ahmedabad,98%,62887
+58,19,High School,Sales,2,Poor,Kota,93%,27190
+25,17,Master,HR,4,Average,Udaipur,73%,94426
+27,19,Master,Sales,4,Average,Jaipur,73%,94794
+46,28,Bachelor,Tech,6,Good,Mumbai,79%,48190
+28,26,Master,HR,6,Good,Delhi,90%,71365
+56,37,PhD,Sales,1,Poor,Jaipur,75%,106900
+52,26,High School,HR,8,Very Good,Indore,92%,33513
+43,23,Bachelor,Sales,6,Good,Lucknow,70%,53753
+34,9,Bachelor,Sales,3,Poor,Mumbai,85%,47263
+51,12,PhD,Sales,9,Very Good,Lucknow,93%,128308
+51,1,High School,Tech,2,Poor,Bhopal,94%,23376
+43,1,High School,Tech,8,Very Good,Jaipur,90%,20167
+31,34,Bachelor,HR,10,Excellent,Lucknow,99%,55447
+58,32,Master,Sales,3,Poor,Bhopal,91%,96654
+21,25,Bachelor,Sales,5,Average,Mumbai,82%,52077
+22,1,High School,Tech,6,Good,Udaipur,77%,34256
+56,16,PhD,Sales,10,Excellent,Udaipur,87%,133631
+36,39,Bachelor,Tech,6,Good,Pune,90%,40365
+21,5,High School,Sales,4,Average,Ahmedabad,95%,20466
+21,22,Bachelor,HR,3,Poor,Jaipur,77%,56382
+47,29,Master,Sales,4,Average,Lucknow,95%,85688
+42,3,Bachelor,Sales,1,Poor,Bhopal,89%,61665
+56,12,Bachelor,Finance,4,Average,Ahmedabad,83%,57788
+51,26,High School,Tech,1,Poor,Kota,99%,38626
+52,16,High School,Sales,1,Poor,Ahmedabad,92%,30172
+20,37,High School,Sales,10,Excellent,Jaipur,97%,35321
+38,22,Bachelor,Finance,6,Good,Udaipur,72%,67402
+21,29,Master,Finance,5,Average,Indore,95%,85420
+45,14,PhD,Tech,4,Average,Pune,78%,99996
+51,28,PhD,Finance,3,Poor,Delhi,78%,138526
+25,5,High School,HR,1,Poor,Kota,87%,25932
+51,30,High School,Finance,6,Good,Kota,79%,23032
+23,5,Bachelor,HR,2,Poor,Mumbai,78%,63314
+30,12,PhD,Tech,8,Very Good,Indore,77%,134036
+36,16,High School,Tech,10,Excellent,Udaipur,74%,22863
+57,26,Master,Tech,5,Average,Indore,89%,83791
+43,26,Master,Tech,7,Good,Jaipur,76%,73561
+24,21,High School,Tech,10,Excellent,Ahmedabad,76%,21762
+53,39,High School,HR,2,Poor,Jaipur,70%,20173
+25,36,PhD,HR,8,Very Good,Lucknow,91%,149440
+41,33,PhD,Tech,2,Poor,Mumbai,92%,116647
+30,30,Bachelor,Finance,4,Average,Pune,98%,46383
+35,37,PhD,Sales,1,Poor,Jaipur,72%,129774
+52,23,Master,Tech,5,Average,Kota,83%,66612
+28,10,Master,Finance,9,Very Good,Bhopal,86%,74531
+25,5,High School,Sales,1,Poor,Mumbai,79%,30159
+35,36,PhD,Tech,9,Very Good,Bhopal,85%,133448
+48,34,Bachelor,Tech,8,Very Good,Pune,72%,58989
+22,31,Master,HR,6,Good,Kota,75%,98610
+39,10,Master,Sales,7,Good,Lucknow,84%,77423
+55,19,Bachelor,Sales,3,Poor,Lucknow,80%,45631
+58,31,Bachelor,HR,2,Poor,Pune,86%,55206
+48,3,PhD,HR,1,Poor,Kota,72%,125127
+34,24,Master,HR,3,Poor,Bhopal,83%,71054
+27,32,High School,Finance,6,Good,Delhi,87%,37066
+40,22,Master,Sales,8,Very Good,Delhi,79%,91253
+58,23,High School,Finance,9,Very Good,Lucknow,73%,37993
+38,2,Bachelor,Finance,7,Good,Ahmedabad,94%,37584
+42,27,Master,HR,4,Average,Bhopal,84%,79742
+30,2,High School,Tech,6,Good,Bhopal,90%,29414
+30,26,Bachelor,Tech,5,Average,Kota,70%,53622
+43,17,Master,Finance,8,Very Good,Pune,74%,85507
+55,33,Master,Finance,1,Poor,Bhopal,78%,61950
+59,9,High School,HR,1,Poor,Delhi,80%,22099
+43,39,High School,Finance,6,Good,Indore,74%,37708
+22,29,High School,HR,10,Excellent,Indore,84%,21961
+41,26,Bachelor,Tech,2,Poor,Lucknow,95%,58425
+21,35,High School,Tech,5,Average,Delhi,93%,22793
+43,25,Master,Sales,1,Poor,Jaipur,93%,77021
+49,24,Master,Tech,7,Good,Ahmedabad,84%,64735
+57,13,High School,Finance,1,Poor,Indore,97%,37729
+21,7,High School,Tech,4,Average,Indore,79%,27123
+40,36,PhD,HR,9,Very Good,Bhopal,73%,92844
+52,20,Master,Tech,1,Poor,Udaipur,92%,94904
+31,1,Bachelor,Sales,4,Average,Mumbai,85%,68297
+41,8,PhD,Tech,6,Good,Lucknow,85%,135069
+44,16,High School,HR,6,Good,Mumbai,81%,35061
+46,14,High School,HR,8,Very Good,Pune,81%,36987
+47,12,Master,Finance,1,Poor,Pune,97%,62929
+35,23,High School,Tech,7,Good,Pune,73%,24173
+34,15,Bachelor,HR,1,Poor,Jaipur,77%,53609
+22,28,Master,Sales,7,Good,Pune,81%,77380
+56,34,High School,Finance,3,Poor,Pune,99%,31005
+26,2,Master,Sales,8,Very Good,Delhi,92%,95818
+40,32,High School,Tech,3,Poor,Indore,78%,33612
+28,23,High School,Tech,1,Poor,Jaipur,78%,28926
+58,22,High School,Tech,8,Very Good,Jaipur,88%,25910
+37,25,Bachelor,Finance,3,Poor,Indore,86%,47479
+23,22,Bachelor,HR,2,Poor,Udaipur,72%,49088
+44,22,Master,Finance,1,Poor,Bhopal,73%,97863
+33,6,High School,Sales,3,Poor,Jaipur,70%,35027
+28,15,High School,Finance,2,Poor,Jaipur,90%,33442
+45,37,Bachelor,Sales,2,Poor,Pune,92%,51115
+21,33,High School,Finance,6,Good,Indore,81%,20633
+39,8,Bachelor,HR,1,Poor,Kota,81%,46073
+47,5,High School,Sales,2,Poor,Mumbai,96%,28858
+26,39,Master,Tech,6,Good,Kota,84%,87227
+27,4,High School,Tech,3,Poor,Delhi,84%,36364
+54,6,High School,Finance,4,Average,Kota,82%,21715
+33,32,PhD,Tech,1,Poor,Udaipur,74%,112158
+36,30,Bachelor,Sales,8,Very Good,Pune,75%,53656
+55,35,High School,Tech,7,Good,Bhopal,77%,37024
+59,16,High School,HR,7,Good,Jaipur,75%,21032
+23,13,PhD,HR,3,Poor,Udaipur,90%,102933
+21,30,PhD,Finance,10,Excellent,Mumbai,91%,121515
+25,19,Bachelor,Sales,10,Excellent,Lucknow,80%,43809
+23,17,PhD,HR,3,Poor,Pune,76%,148645
+48,19,Master,HR,2,Poor,Indore,93%,83961
+37,28,PhD,Sales,1,Poor,Pune,84%,135479
+45,26,Master,Tech,7,Good,Bhopal,94%,83326
+53,37,Bachelor,Tech,7,Good,Indore,74%,59318
+29,26,Bachelor,Finance,2,Poor,Indore,96%,56187
+55,23,Bachelor,Tech,7,Good,Bhopal,94%,58862
+33,9,Bachelor,Sales,8,Very Good,Pune,91%,38069
+50,12,Bachelor,HR,1,Poor,Indore,87%,42592
+34,1,Master,Tech,9,Very Good,Delhi,77%,98377
+27,1,Master,Finance,7,Good,Lucknow,93%,71681
+33,34,Bachelor,Tech,3,Poor,Jaipur,95%,56377
+42,32,PhD,Sales,8,Very Good,Kota,83%,106671
+59,25,High School,Finance,7,Good,Mumbai,81%,26242
+40,1,Bachelor,Tech,8,Very Good,Lucknow,82%,68575
+35,16,PhD,Finance,6,Good,Delhi,75%,136002
+37,39,High School,Sales,9,Very Good,Mumbai,78%,30971
+43,5,Bachelor,HR,5,Average,Delhi,88%,51381
+45,22,Bachelor,Sales,3,Poor,Lucknow,81%,65964
+44,29,Master,Sales,3,Poor,Udaipur,96%,78716
+48,3,High School,Sales,1,Poor,Bhopal,98%,37706
+34,12,High School,Sales,8,Very Good,Ahmedabad,94%,38392
+20,26,PhD,HR,2,Poor,Jaipur,82%,147604
+44,16,Master,HR,3,Poor,Lucknow,87%,97463
+26,37,Master,Finance,8,Very Good,Bhopal,92%,74729
+28,22,Master,Tech,8,Very Good,Udaipur,83%,81201
+43,29,Master,HR,4,Average,Kota,91%,92316
+20,14,High School,HR,4,Average,Udaipur,90%,31396
+27,28,High School,Tech,5,Average,Pune,70%,33906
+43,5,Bachelor,HR,6,Good,Indore,92%,58305
+30,30,Bachelor,Sales,5,Average,Jaipur,99%,67371
+36,5,Master,Sales,7,Good,Delhi,77%,92023
+27,12,Master,Tech,2,Poor,Bhopal,85%,63693
+54,16,Master,Finance,7,Good,Delhi,77%,98425
+54,26,Bachelor,Finance,10,Excellent,Ahmedabad,91%,41637
+52,26,PhD,Tech,7,Good,Udaipur,89%,148796
+24,21,PhD,Tech,1,Poor,Delhi,77%,114840
+58,39,Bachelor,Sales,7,Good,Pune,74%,44184
+47,36,Bachelor,Finance,5,Average,Indore,89%,69884
+26,33,Bachelor,HR,3,Poor,Mumbai,81%,54090
+28,30,Bachelor,Sales,3,Poor,Indore,84%,67351
+27,37,Bachelor,Tech,4,Average,Mumbai,95%,39499
+31,23,Bachelor,Finance,2,Poor,Lucknow,92%,52959
+53,10,Master,HR,2,Poor,Mumbai,89%,78813
+52,5,Master,HR,1,Poor,Jaipur,80%,67720
+42,36,Master,Sales,5,Average,Mumbai,92%,68139
+43,34,Master,Finance,4,Average,Delhi,70%,71632
+56,31,Bachelor,Finance,10,Excellent,Udaipur,90%,67363
+54,10,PhD,Tech,2,Poor,Jaipur,84%,113415
+59,19,High School,Finance,3,Poor,Delhi,80%,24733
+41,32,Bachelor,Finance,7,Good,Mumbai,84%,58674
+46,1,High School,Sales,7,Good,Pune,91%,22240
+54,5,PhD,Finance,4,Average,Lucknow,71%,131335
+20,4,Master,HR,5,Average,Indore,77%,74074
+54,16,PhD,Sales,5,Average,Pune,70%,113346
+56,24,Bachelor,Sales,6,Good,Indore,78%,40063
+33,16,Master,Tech,9,Very Good,Jaipur,74%,88660
+22,2,Bachelor,Finance,2,Poor,Jaipur,95%,42257
+20,28,Master,Tech,5,Average,Mumbai,78%,88288
+24,32,High School,HR,3,Poor,Delhi,75%,21791
+45,27,High School,Sales,4,Average,Lucknow,85%,34415
+33,20,High School,Sales,10,Excellent,Delhi,75%,25705
+58,24,PhD,Sales,6,Good,Mumbai,91%,123760
+46,12,Bachelor,HR,8,Very Good,Jaipur,94%,50655
+28,35,PhD,HR,1,Poor,Udaipur,90%,93932
+34,33,High School,Tech,10,Excellent,Lucknow,99%,27004
+34,33,Bachelor,Tech,8,Very Good,Pune,75%,69276
+45,37,High School,Tech,7,Good,Pune,77%,25240
+32,12,PhD,Finance,1,Poor,Pune,86%,101767
+51,3,PhD,Sales,2,Poor,Indore,74%,93034
+58,1,PhD,Sales,3,Poor,Udaipur,75%,132284
+51,33,High School,Tech,1,Poor,Mumbai,90%,20138
+23,10,Bachelor,Sales,9,Very Good,Delhi,78%,45329
+49,29,Bachelor,Tech,8,Very Good,Jaipur,95%,42790
+56,13,High School,Finance,2,Poor,Kota,82%,28049
+42,12,Bachelor,Finance,9,Very Good,Udaipur,87%,57165
+58,31,High School,HR,7,Good,Indore,85%,21184
+34,2,Bachelor,Finance,9,Very Good,Udaipur,71%,50412
+48,35,Master,Tech,6,Good,Pune,82%,91338
+55,23,Master,Finance,6,Good,Jaipur,88%,84979
+32,17,PhD,HR,4,Average,Jaipur,83%,112607
+51,26,Master,Sales,10,Excellent,Bhopal,78%,72065
+26,8,Master,Tech,10,Excellent,Delhi,95%,81091
+41,29,Master,Sales,2,Poor,Delhi,92%,63123
+47,26,High School,HR,7,Good,Pune,91%,24574
+21,10,Master,HR,5,Average,Kota,80%,88122
+25,26,Master,HR,6,Good,Pune,95%,75517
+47,34,PhD,Sales,2,Poor,Mumbai,74%,146299
+47,7,Master,Sales,5,Average,Bhopal,72%,93986
+39,4,Master,Sales,10,Excellent,Jaipur,77%,68104
+49,11,Bachelor,Sales,4,Average,Ahmedabad,93%,52868
+30,29,PhD,HR,9,Very Good,Bhopal,94%,130048
+47,36,PhD,HR,6,Good,Kota,84%,146860
+44,25,PhD,Tech,2,Poor,Indore,90%,94250
+58,21,PhD,Tech,1,Poor,Bhopal,79%,140527
+52,36,PhD,Sales,5,Average,Udaipur,98%,131563
+20,10,PhD,Finance,9,Very Good,Udaipur,72%,125122
+46,37,High School,Finance,6,Good,Mumbai,99%,22197
+32,9,Master,HR,10,Excellent,Indore,81%,61161
+22,24,PhD,HR,7,Good,Jaipur,75%,126112
+58,35,Master,HR,5,Average,Ahmedabad,83%,65807
+25,35,Master,Tech,10,Excellent,Kota,78%,82982
+27,36,High School,Tech,6,Good,Udaipur,94%,25056
+46,18,PhD,HR,5,Average,Udaipur,84%,134421
+28,39,Bachelor,HR,9,Very Good,Jaipur,87%,63777
+56,32,High School,HR,6,Good,Udaipur,93%,37179
+52,24,Bachelor,Finance,8,Very Good,Bhopal,85%,61868
+43,23,Master,Tech,2,Poor,Jaipur,89%,89764
+34,32,Master,Finance,9,Very Good,Kota,71%,63560
+51,37,High School,Finance,5,Average,Delhi,71%,21712
+51,12,High School,HR,7,Good,Indore,77%,27484
+43,13,Bachelor,HR,10,Excellent,Mumbai,74%,39290
+31,23,PhD,Sales,1,Poor,Ahmedabad,84%,131241
+58,25,Bachelor,Sales,10,Excellent,Udaipur,94%,45891
+21,35,High School,Finance,5,Average,Lucknow,83%,20586
+22,30,Bachelor,Tech,10,Excellent,Delhi,77%,60513
+56,17,High School,HR,2,Poor,Ahmedabad,73%,26204
+36,20,Bachelor,HR,6,Good,Bhopal,86%,48714
+21,25,High School,Finance,1,Poor,Pune,85%,36953
+21,22,High School,Sales,3,Poor,Indore,71%,22691
+47,13,High School,Tech,5,Average,Delhi,99%,29699
+42,19,PhD,Sales,4,Average,Pune,97%,129380
+56,36,Bachelor,Sales,3,Poor,Pune,89%,38575
+51,12,Bachelor,Sales,10,Excellent,Udaipur,96%,61266
+52,19,Bachelor,Sales,5,Average,Indore,89%,65696
+20,12,High School,HR,8,Very Good,Lucknow,99%,37670
+38,9,Bachelor,HR,4,Average,Kota,95%,65110
+21,7,Bachelor,Sales,1,Poor,Bhopal,81%,66724
+45,28,High School,Tech,7,Good,Bhopal,97%,30208
+51,14,Master,Finance,8,Very Good,Mumbai,74%,66040
+25,31,High School,Tech,3,Poor,Indore,76%,24347
+51,19,Bachelor,Tech,6,Good,Jaipur,77%,62578
+23,16,High School,Tech,2,Poor,Kota,70%,35919
+30,5,Master,Sales,7,Good,Jaipur,92%,75368
+36,35,High School,HR,8,Very Good,Mumbai,72%,23633
+57,12,Bachelor,Tech,6,Good,Pune,72%,62787
+43,25,Master,Sales,6,Good,Udaipur,86%,82981
+24,21,PhD,Tech,5,Average,Mumbai,87%,122885
+53,36,Bachelor,Tech,8,Very Good,Delhi,86%,48292
+25,23,Master,Sales,1,Poor,Mumbai,85%,84933
+41,16,Master,HR,10,Excellent,Ahmedabad,87%,81416
+30,39,PhD,HR,4,Average,Delhi,90%,113084
+35,39,High School,Finance,4,Average,Kota,85%,24369
+52,14,High School,Sales,3,Poor,Delhi,79%,31598
+28,31,Bachelor,Finance,3,Poor,Delhi,90%,41714
+25,5,PhD,Finance,4,Average,Udaipur,99%,131980
+35,35,High School,Finance,1,Poor,Jaipur,76%,22017
+48,23,PhD,HR,2,Poor,Kota,80%,139399
+22,29,High School,Sales,9,Very Good,Udaipur,95%,32509
+39,11,Master,Finance,10,Excellent,Mumbai,82%,65422
+55,18,High School,Sales,2,Poor,Kota,95%,35283
+38,12,PhD,Sales,5,Average,Indore,90%,124015
+45,9,Master,HR,9,Very Good,Delhi,90%,77808
+22,10,Master,Finance,9,Very Good,Ahmedabad,76%,95244
+38,17,Master,Finance,8,Very Good,Kota,86%,84393
+39,38,PhD,Sales,1,Poor,Bhopal,89%,110776
+51,7,Bachelor,Tech,1,Poor,Bhopal,76%,67130
+26,13,Bachelor,HR,9,Very Good,Delhi,96%,39990
+52,9,Bachelor,HR,8,Very Good,Bhopal,76%,57524
+59,27,PhD,HR,10,Excellent,Delhi,71%,148893
+58,2,Master,HR,9,Very Good,Udaipur,91%,62002
+37,5,Bachelor,Finance,7,Good,Kota,91%,47074
+59,29,PhD,Finance,3,Poor,Kota,86%,117226
+20,37,Bachelor,Tech,3,Poor,Lucknow,98%,61624
+30,38,High School,HR,2,Poor,Pune,76%,32312
+47,19,Bachelor,HR,5,Average,Jaipur,90%,64532
+44,8,Bachelor,Sales,3,Poor,Delhi,97%,69285
+42,1,Master,Finance,6,Good,Delhi,79%,78509
+50,22,PhD,HR,2,Poor,Ahmedabad,78%,110217
+49,17,Master,Tech,3,Poor,Delhi,97%,84352
+54,7,Master,Tech,5,Average,Lucknow,85%,93377
+26,25,Master,Finance,1,Poor,Indore,79%,91711
+35,4,Master,Tech,1,Poor,Udaipur,74%,74788
+45,36,Master,Tech,10,Excellent,Mumbai,87%,97887
+21,6,Bachelor,Finance,9,Very Good,Mumbai,96%,65756
+20,31,Master,HR,7,Good,Indore,82%,82024
+31,19,Master,HR,1,Poor,Jaipur,80%,84721
+24,39,PhD,Tech,8,Very Good,Indore,74%,95285
+56,27,High School,Tech,3,Poor,Pune,77%,29046
+51,10,Bachelor,HR,8,Very Good,Pune,74%,55638
+28,26,Bachelor,Finance,5,Average,Jaipur,72%,50576
+54,19,Bachelor,Tech,1,Poor,Indore,81%,48271
+38,39,Master,Sales,7,Good,Mumbai,90%,64980
+35,3,Master,Finance,5,Average,Delhi,77%,73882
+22,13,Master,Tech,6,Good,Mumbai,81%,96178
+39,28,PhD,Tech,6,Good,Bhopal,73%,112369
+43,20,High School,Sales,8,Very Good,Kota,89%,38839
+52,28,Master,Sales,9,Very Good,Indore,84%,87989
+43,8,High School,HR,2,Poor,Mumbai,97%,21233
+30,39,PhD,Finance,9,Very Good,Indore,71%,121296
+27,1,Bachelor,Finance,10,Excellent,Kota,92%,47090
+55,3,Master,HR,9,Very Good,Delhi,94%,89374
+57,13,High School,Finance,10,Excellent,Jaipur,70%,30894
+59,28,High School,Finance,10,Excellent,Delhi,81%,22031
+39,25,Master,Finance,7,Good,Ahmedabad,89%,60192
+54,33,Bachelor,Finance,1,Poor,Indore,94%,64687
+44,38,Bachelor,Finance,7,Good,Kota,97%,38052
+54,6,Bachelor,Sales,10,Excellent,Ahmedabad,88%,55168
+44,32,PhD,Finance,5,Average,Jaipur,71%,96117
+48,21,High School,Sales,6,Good,Bhopal,90%,33038
+37,16,High School,Finance,10,Excellent,Pune,89%,36926
+37,21,High School,HR,7,Good,Kota,82%,24457
+21,11,PhD,Tech,5,Average,Kota,93%,111379
+54,37,High School,Sales,7,Good,Ahmedabad,94%,26034
+35,36,PhD,Finance,9,Very Good,Bhopal,93%,148594
+55,35,Bachelor,HR,3,Poor,Udaipur,80%,53343
+52,19,Master,Tech,8,Very Good,Jaipur,90%,68830
+23,20,High School,Sales,2,Poor,Mumbai,73%,23411
+52,18,High School,Tech,7,Good,Kota,75%,24987
+33,14,Bachelor,HR,2,Poor,Kota,90%,39648
+40,15,Master,Sales,4,Average,Pune,76%,83581
+39,31,PhD,Tech,7,Good,Indore,96%,148205
+27,1,Master,Finance,3,Poor,Pune,94%,81677
+26,3,Bachelor,Sales,2,Poor,Lucknow,97%,68793
+22,16,Bachelor,Tech,10,Excellent,Jaipur,96%,47577
+36,23,Master,HR,7,Good,Indore,79%,99949
+52,11,PhD,HR,1,Poor,Delhi,90%,130260
+31,12,PhD,Sales,8,Very Good,Mumbai,83%,114832
+41,10,High School,Tech,3,Poor,Mumbai,77%,36163
+41,32,PhD,Sales,2,Poor,Jaipur,84%,110253
+49,16,Master,Sales,3,Poor,Bhopal,88%,73931
+57,8,Bachelor,Tech,5,Average,Pune,90%,40619
+57,38,High School,Tech,8,Very Good,Delhi,79%,29573
+27,12,High School,Finance,10,Excellent,Lucknow,76%,28509
+46,24,Bachelor,Tech,7,Good,Ahmedabad,88%,44196
+46,28,PhD,HR,7,Good,Pune,80%,139888
+53,8,Bachelor,Sales,7,Good,Indore,79%,59600
+40,28,PhD,Sales,8,Very Good,Ahmedabad,99%,107822
+49,36,Bachelor,HR,1,Poor,Indore,85%,38188
+52,26,Master,Tech,4,Average,Bhopal,88%,66328
+47,8,PhD,HR,6,Good,Udaipur,92%,98034
+52,28,Master,HR,9,Very Good,Delhi,94%,74629
+24,28,High School,Finance,2,Poor,Pune,91%,35202
+38,37,Bachelor,HR,1,Poor,Delhi,78%,38467
+23,36,High School,Sales,10,Excellent,Lucknow,99%,27558
+54,27,High School,HR,2,Poor,Jaipur,90%,24213
+36,17,High School,Sales,7,Good,Bhopal,85%,32433
+47,9,High School,Sales,3,Poor,Kota,81%,22127
+49,33,Bachelor,Sales,10,Excellent,Jaipur,86%,55990
+48,20,High School,Tech,2,Poor,Pune,88%,34021
+25,13,Bachelor,Finance,7,Good,Jaipur,81%,42711
+54,28,Bachelor,Sales,2,Poor,Mumbai,75%,53996
+56,29,Master,Sales,3,Poor,Bhopal,84%,63541
+43,13,PhD,Tech,7,Good,Delhi,85%,90764
+48,35,PhD,Sales,4,Average,Jaipur,86%,134838
+50,6,Bachelor,HR,1,Poor,Indore,72%,47720
+54,18,Master,HR,5,Average,Lucknow,90%,71341
+52,5,Bachelor,Finance,9,Very Good,Ahmedabad,74%,57462
+40,25,Bachelor,Sales,8,Very Good,Indore,74%,52815
+51,2,Bachelor,Tech,9,Very Good,Udaipur,90%,59452
+42,10,Master,HR,10,Excellent,Mumbai,83%,83337
+52,30,PhD,Tech,9,Very Good,Indore,93%,127890
+22,5,Master,Tech,7,Good,Indore,71%,82210
+37,33,High School,HR,4,Average,Delhi,91%,33796
+44,1,Master,Tech,5,Average,Delhi,81%,90532
+58,30,Bachelor,Sales,9,Very Good,Jaipur,82%,52529
+48,11,High School,Tech,4,Average,Pune,91%,36978
+34,28,Bachelor,HR,10,Excellent,Mumbai,85%,39515
+27,25,High School,HR,5,Average,Mumbai,90%,20581
+40,39,Bachelor,Sales,9,Very Good,Ahmedabad,76%,62749
+58,33,Master,Finance,8,Very Good,Kota,76%,79427
+38,1,PhD,Sales,3,Poor,Udaipur,80%,93261
+42,27,High School,Sales,1,Poor,Bhopal,70%,26583
+30,13,High School,Tech,3,Poor,Indore,76%,28295
+30,3,PhD,Tech,4,Average,Kota,90%,117594
+43,39,High School,Sales,2,Poor,Kota,77%,25225
+55,6,High School,HR,1,Poor,Indore,75%,31129
+59,8,Bachelor,Tech,7,Good,Mumbai,97%,57449
+43,27,High School,Finance,8,Very Good,Bhopal,89%,32352
+22,9,Master,Tech,7,Good,Bhopal,74%,68646
+41,37,Master,Tech,5,Average,Bhopal,78%,69151
+21,33,PhD,Finance,1,Poor,Delhi,77%,101187
+43,24,High School,Sales,7,Good,Jaipur,83%,31136
+49,15,PhD,Finance,7,Good,Ahmedabad,74%,110267
+57,32,Master,Sales,9,Very Good,Ahmedabad,99%,72451
+21,32,High School,Sales,3,Poor,Mumbai,88%,33546
+40,24,High School,Sales,9,Very Good,Bhopal,86%,34735
+52,12,PhD,Finance,1,Poor,Ahmedabad,82%,124618
+31,39,Master,Sales,1,Poor,Ahmedabad,82%,76698
+41,2,High School,HR,4,Average,Delhi,93%,38215
+44,3,PhD,Finance,9,Very Good,Lucknow,76%,125600
+46,37,Master,HR,6,Good,Pune,99%,93825
+47,17,PhD,Sales,3,Poor,Bhopal,70%,113408
+35,2,Bachelor,Tech,1,Poor,Lucknow,72%,51674
+34,2,High School,Sales,4,Average,Jaipur,93%,32020
+22,28,Bachelor,HR,9,Very Good,Udaipur,90%,69776
+56,23,Master,HR,3,Poor,Kota,88%,75836
+26,37,Bachelor,Finance,9,Very Good,Lucknow,92%,38455
+40,32,Bachelor,Tech,7,Good,Udaipur,89%,59524
+28,33,Master,Finance,4,Average,Kota,98%,61161
+58,1,PhD,HR,3,Poor,Bhopal,77%,101455
+37,19,Bachelor,Sales,10,Excellent,Ahmedabad,99%,64892
+23,2,PhD,Tech,5,Average,Ahmedabad,91%,92872
+44,26,Bachelor,Sales,5,Average,Udaipur,75%,44771
+33,32,PhD,Sales,3,Poor,Pune,77%,132148
+28,6,Master,Tech,9,Very Good,Mumbai,71%,61996
+45,32,Bachelor,Finance,4,Average,Jaipur,97%,39418
+21,4,Master,Sales,5,Average,Udaipur,85%,68205
+39,11,Bachelor,HR,4,Average,Jaipur,80%,48488
+47,17,Master,Sales,5,Average,Ahmedabad,80%,74641
+26,38,Master,Tech,7,Good,Delhi,76%,89807
+27,24,Bachelor,Tech,9,Very Good,Lucknow,91%,45507
+54,5,Bachelor,Tech,7,Good,Udaipur,82%,41222
+33,34,Bachelor,Finance,5,Average,Indore,82%,50224
+36,6,High School,Sales,10,Excellent,Mumbai,87%,37556
+55,22,PhD,Finance,10,Excellent,Delhi,99%,148161
+59,11,High School,Finance,7,Good,Ahmedabad,72%,36541
+23,16,High School,Tech,10,Excellent,Delhi,87%,21336
+21,33,Master,Tech,5,Average,Pune,79%,60994
+25,9,Bachelor,Finance,3,Poor,Ahmedabad,90%,68866
+23,6,PhD,Sales,7,Good,Indore,94%,142658
+48,16,Master,HR,2,Poor,Mumbai,82%,68513
+37,29,High School,Finance,9,Very Good,Bhopal,92%,25618
+45,3,Bachelor,Sales,10,Excellent,Delhi,75%,42303
+53,20,Master,Tech,10,Excellent,Lucknow,96%,85823
+29,36,Bachelor,Tech,1,Poor,Bhopal,88%,49550
+55,19,Master,Sales,6,Good,Pune,83%,72956
+33,26,Bachelor,HR,7,Good,Bhopal,75%,67534
+50,3,High School,Tech,8,Very Good,Lucknow,80%,26078
+34,19,PhD,Tech,10,Excellent,Udaipur,77%,145233
+27,20,High School,Tech,9,Very Good,Udaipur,81%,21175
+33,32,PhD,Sales,2,Poor,Ahmedabad,87%,148605
+42,7,Bachelor,Finance,10,Excellent,Indore,93%,39862
+59,33,Master,Tech,2,Poor,Kota,88%,91155
+40,39,High School,Finance,5,Average,Udaipur,88%,32119
+35,18,PhD,HR,5,Average,Lucknow,91%,145251
+37,1,High School,Tech,6,Good,Mumbai,71%,27897
+43,11,PhD,Tech,3,Poor,Pune,75%,136207
+45,28,High School,HR,8,Very Good,Delhi,94%,23065
+44,25,PhD,Tech,1,Poor,Jaipur,83%,133379
+48,23,PhD,Finance,6,Good,Bhopal,90%,126931
+34,31,Bachelor,Sales,4,Average,Mumbai,80%,59999
+20,30,PhD,Finance,1,Poor,Udaipur,94%,144330
+44,35,Bachelor,Sales,7,Good,Jaipur,84%,62298
+26,7,PhD,Sales,9,Very Good,Mumbai,95%,114027
+28,16,Master,Finance,4,Average,Mumbai,92%,82023
+43,26,Master,Finance,4,Average,Mumbai,73%,62456
+20,2,Master,Finance,6,Good,Indore,70%,63894
+27,1,PhD,Finance,3,Poor,Mumbai,85%,136033
+43,12,Bachelor,HR,6,Good,Bhopal,70%,36159
+30,5,Bachelor,Tech,7,Good,Pune,89%,68276
+36,37,PhD,Sales,10,Excellent,Bhopal,99%,149657
+27,32,Master,Finance,10,Excellent,Mumbai,92%,78232
+54,9,Master,Finance,3,Poor,Lucknow,71%,96888
+54,35,Bachelor,Finance,7,Good,Bhopal,82%,66589
+52,19,Master,HR,3,Poor,Jaipur,72%,77497
+24,16,High School,Finance,2,Poor,Lucknow,75%,21143
+58,3,Bachelor,Finance,10,Excellent,Mumbai,92%,66272
+47,20,Master,Finance,4,Average,Kota,73%,99262
+26,24,Bachelor,Tech,8,Very Good,Udaipur,74%,69858
+28,33,High School,HR,9,Very Good,Bhopal,80%,30733
+27,24,Bachelor,Finance,7,Good,Lucknow,90%,60033
+31,11,Bachelor,Sales,1,Poor,Pune,76%,36187
+53,8,Bachelor,Sales,3,Poor,Delhi,98%,55712
+52,36,Bachelor,Sales,9,Very Good,Indore,78%,58823
+42,38,High School,HR,1,Poor,Lucknow,77%,27881
+43,20,PhD,HR,9,Very Good,Indore,76%,119603
+56,35,Bachelor,Sales,8,Very Good,Udaipur,94%,52060
+54,25,Bachelor,Finance,1,Poor,Jaipur,77%,59067
+59,35,Master,HR,6,Good,Indore,84%,68270
+41,25,Bachelor,Sales,5,Average,Indore,70%,37027
+46,29,Master,Sales,6,Good,Delhi,71%,86844
+54,18,PhD,Finance,10,Excellent,Udaipur,72%,136539
+20,18,High School,Tech,5,Average,Lucknow,86%,20681
+54,2,High School,HR,6,Good,Lucknow,76%,25709
+56,35,PhD,Finance,5,Average,Jaipur,85%,146892
+33,16,High School,Sales,5,Average,Delhi,80%,34548
+22,36,PhD,Sales,4,Average,Jaipur,87%,90606
+20,33,PhD,Finance,3,Poor,Udaipur,74%,121231
+24,4,PhD,HR,3,Poor,Udaipur,92%,138840
+45,33,High School,Tech,4,Average,Udaipur,75%,34942
+33,14,Master,Tech,9,Very Good,Pune,93%,93611
+58,21,PhD,Sales,2,Poor,Bhopal,85%,100801
+46,20,Bachelor,HR,9,Very Good,Bhopal,93%,62572
+28,8,High School,Tech,1,Poor,Lucknow,85%,32887
+34,7,PhD,HR,1,Poor,Ahmedabad,88%,128611
+34,3,PhD,HR,5,Average,Udaipur,91%,147999
+45,17,Bachelor,Sales,6,Good,Pune,89%,58991
+32,33,Master,Tech,6,Good,Jaipur,77%,91106
+51,12,Master,Finance,3,Poor,Mumbai,73%,94973
+58,22,Master,Sales,7,Good,Mumbai,83%,83760
+51,22,PhD,Tech,9,Very Good,Lucknow,73%,141564
+23,30,PhD,Tech,10,Excellent,Pune,84%,111945
+49,38,PhD,Tech,8,Very Good,Lucknow,72%,114428
+56,38,High School,Tech,6,Good,Indore,91%,29636
+42,8,Bachelor,Tech,8,Very Good,Jaipur,93%,69572
+58,27,PhD,HR,5,Average,Udaipur,81%,148482
+34,27,Bachelor,Sales,8,Very Good,Mumbai,97%,56247
+48,34,Bachelor,HR,10,Excellent,Kota,97%,55902
+55,21,Master,Finance,4,Average,Udaipur,91%,94225
+32,30,High School,Tech,10,Excellent,Bhopal,98%,29003
+51,33,PhD,Sales,8,Very Good,Kota,72%,146905
+26,28,Master,Tech,10,Excellent,Delhi,74%,84987
+41,33,Master,Sales,2,Poor,Udaipur,99%,72897
+47,5,PhD,HR,5,Average,Pune,84%,139296
+21,19,Bachelor,Sales,9,Very Good,Jaipur,88%,45414
+25,4,Master,Finance,4,Average,Delhi,87%,98971
+47,35,Bachelor,Finance,6,Good,Bhopal,77%,36932
+47,17,High School,Sales,1,Poor,Mumbai,96%,26068
+39,28,Bachelor,Sales,9,Very Good,Bhopal,87%,55878
